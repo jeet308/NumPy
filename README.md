@@ -1,4 +1,4 @@
-Numpy library basic numericconcepts
+Numpy 
 
 NumPy stands for Numerical Python.
 NumPy is a python library used for working with arrays.
